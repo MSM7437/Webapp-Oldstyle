@@ -11,7 +11,7 @@ h3 {
 }
 
 #title {
-  background-color: #ff4c68;
+  background-color: #f54e68;
   color: #fff;
 }
 
@@ -58,7 +58,7 @@ h3 {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat";
-  font-weight: 300;
+  font-weight: 280;
 }
 
 .download-button {
@@ -85,7 +85,7 @@ h3 {
 
 .contact-p {
   font-weight: 100;
-  color: #ebbbb5;
+  color: ##d9aca7;
 }
 
 .fa-solid {
@@ -123,7 +123,7 @@ h3 {
 }
 
 .pricing-p {
-  color: #8f8f8f;
+  color: #919090;
 }
 
 .testimonial-image {
@@ -149,7 +149,7 @@ h3 {
 
 .prices-h3 {
   font-family: "Montserrat";
-  padding-top: 16px;
+  padding-top: 15px;
   font-weight: 700;
 }
 
